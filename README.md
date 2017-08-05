@@ -10,9 +10,7 @@ Before this lesson, we recommend you go through
 
 
 ## Slides
-@[gslides](11fUV6sRhWSC07A4-ndT9u7BbtEQLfb2WO9Rtl_mzKdM)
-
-@[gslides](1-bWVnI7SfgQO4S6kyzc5o9u8TJaZQAIHB3KMaKX1unA)
+@[gslides](1dAgsETqI9eZbAEzKyfxcxoPQk7jiWGGZAWtCrhqGI0A)
 
 ## Download 
 
